@@ -1,7 +1,7 @@
 # alx-system_engineering-devops
 
 ## Description
-    This repository stores all system-engineering projects
+    This repository stores all alx system-engineering projects
     
 ## Structure
    Projects list is here:
