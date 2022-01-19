@@ -10,3 +10,4 @@
 * [0x02. Shell - Shell redirections](./0x02-shell_redirections)
 * [0x03. Shell - Shell variables expansions](./0x03-shell_variables_expansions)
 * [Optional. Command line for the win](./command_line_for_the_win)
+* [0x06. Regular expressions](./0x06-regular_expressions)
