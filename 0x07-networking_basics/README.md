@@ -2,16 +2,7 @@
 ==========================
 
 -   By Sylvain Kalache
--   Weight: 1
--   Ongoing second chance project - started 01-19-2022, must end by 01-22-2022 (in about 4 hours) - you're done with 0% of tasks.
--   QA review fully automated.
 
-#### In a nutshell...
-
--   **Auto QA review:** 0.0/13 mandatory
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: no optional tasks
 
 Resources
 ---------
@@ -118,7 +109,6 @@ Tasks
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 OSI (Open Systems Interconnection) is an abstract model to describe layered communication and computer network design. The idea is to segregate the different parts of what make communication possible.
 
@@ -164,7 +154,6 @@ How is the OSI model organized?
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220121T224302Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d564d47f9b43d65c13ef006b9ce3cbb6fdc11439aece60bedfb8bd14b052a794)
 
@@ -200,7 +189,6 @@ What network do you use when you browse www.google.com from your smartphone (not
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220121T224302Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d51c8ae0531cd931242e5853116bc8f00257636de055d02b932d90309c93750)
 
@@ -228,7 +216,6 @@ What is an IP address?
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220121T224302Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=857b44c3dace1108567eabb63260ae718c081e04192d23a6c167fa1ad73cbfed)
 
@@ -256,7 +243,6 @@ Questions:
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 Once packets have been sent to the right network device using IP using either UDP or TCP as a mode of transportation, it needs to actually enter the network device.
 
@@ -318,7 +304,6 @@ sylvain@ubuntu$
 
 mandatory
 
-Score: 0.00% (Checks completed: 0.00%)
 
 ![](https://media.giphy.com/media/uDxkJAVSU7GY8/giphy.gif)
 
