@@ -18,3 +18,5 @@
 * [0x0B. SSH](./0x0B-ssh)
 * [0x0C. Web Server](./0x0C-web_server)
 * [0x0D. 0x0D. Web stack debugging #0](./0x0D-web_stack_debugging_0/)
+* [0x0E. 0x0E. Web stack debugging #1](./0x0D-web_stack_debugging_1/)
+* [0x0F. 0x0F. Load balancer](./0x0F-load_balancer/)
