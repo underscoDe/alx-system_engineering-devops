@@ -10,6 +10,7 @@
 * [0x02. Shell - Shell redirections](./0x02-shell_redirections)
 * [0x03. Shell - Shell variables expansions](./0x03-shell_variables_expansions)
 * [0x04. Shell - Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
+* [0x05. Shell - Processes and signals](./0x05-processes_and_signals/)
 * [0x06. Regular expressions](./0x06-regular_expressions)
 * [0x07. Networking basics #1](./0x07-networking_basics)
 * [0x08. Networking basics #2](./0x08-networking_basics_2)
