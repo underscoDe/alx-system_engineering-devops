@@ -24,5 +24,6 @@
 * [0x0E. Web stack debugging #1](./0x0D-web_stack_debugging_1/)
 * [0x0F. Load balancer](./0x0F-load_balancer/)
 * [0x15. API](./0x15-api)
+* [0x16. API advanced](./0x16-api_advanced)
 
 * [Optional. Command line for the win](./command_line_for_the_win)
