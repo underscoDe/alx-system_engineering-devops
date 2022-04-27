@@ -19,7 +19,7 @@ def count_words(subreddit, word_list, count_dict={}, after=None):
     req = requests.get(
         "https://www.reddit.com/r/{}/hot.json".format(subreddit),
         headers={
-            "User-Agent": "alx_app"},
+            "User-Agent": "underscoDe@alx-holbertonschool"},
         params=params,
         allow_redirects=False)
     if req.status_code == 200:
