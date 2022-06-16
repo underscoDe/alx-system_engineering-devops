@@ -29,6 +29,7 @@
 * [0x16. API advanced](./0x16-api_advanced)
 * [0x17. Web stack debugging #3](./0x17-web_stack_debugging_3/)
 * [0x18. Webstack monitoring](./0x18-webstack_monitoring)
+* [0x19. Postmortem](./0x19-postmortem)
 * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4/)
 
 
